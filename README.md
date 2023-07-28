@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RiiiiX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Riix#8029
+- 🌱 I’m currently learning C++ / Python
+- 📫 How to reach me Riix#4647
 
 <!---
 RiiiiX/RiiiiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
